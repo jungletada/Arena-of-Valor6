@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Artificial","h":"","u":""},{"l":"Character","h":"","u":""},{"l":"HeroF","h":"","u":""},{"l":"HeroH","h":"","u":""},{"l":"HeroI","h":"","u":""},{"l":"HeroJ","h":"","u":""},{"l":"Main","h":"","u":""},{"l":"Map","h":"","u":""}]
